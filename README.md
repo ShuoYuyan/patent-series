@@ -44,13 +44,16 @@ TCL = TD + ND + DD
 
 ## License and Authorization
 
-This series of documents is open-sourced under the **GNU AFFERO GENERAL PUBLIC LICENSE v3.0 (AGPL-3.0)**, with the following additional terms:
+**Copyright Ownership**: All theories and product patents/invention patents/copyrights based on this theoretical system are owned by Chen Qin of Sichuan Longying Technology Co., Ltd.
 
-1. **Attribution**: When using this series of documents or their technical solutions, you must clearly cite the source, including the inventor's name, affiliation, and original document link.
+**License Terms**: This series of documents is open-sourced under the **GNU AFFERO GENERAL PUBLIC LICENSE v3.0 (AGPL-3.0)**, with the following additional terms:
+
+1. **Attribution Required**: Anyone using or referencing this series of documents must clearly cite the source, including the inventor's name, affiliation, and original document link.
 2. **Contribution Back**: Improvements, derivative works, or enhanced versions based on this series of documents must be contributed back to this repository and must not be privatized.
-3. **Non-Commercial Free Use**: Non-profit use is free of charge, including personal learning, academic research, scientific research projects, open source community contributions, etc.
-4. **Commercial Authorization**: Commercial use requires written authorization and payment of licensing fees. Commercial use includes but is not limited to: using the technical solutions in commercial products, commercial services, commercial systems, commercial consulting, etc.
-5. **No Plagiarism**: Plagiarizing the content of this series of documents and claiming it as one's own is prohibited. Removing or altering original copyright information is prohibited.
+3. **Non-Commercial Free Use**: Non-commercial use is free of charge, including personal learning, academic research, scientific research projects, open source community contributions, etc.
+4. **Commercial Authorization Required**: Commercial use requires written authorization and payment of licensing fees. Commercial use includes but is not limited to: using the technical solutions in commercial products, commercial services, commercial systems, commercial consulting, etc.
+5. **Legal Protection**: This product is protected by international law. Infringement will be prosecuted to the fullest extent of the law.
+6. **No Plagiarism**: Plagiarizing the content of this series of documents and claiming it as one's own is prohibited. Removing or altering original copyright information is prohibited.
 
 **Inventor**: 陈钦 (cq800229@qq.com)  
 **Affiliation**: 四川龙映科技有限公司 (Sichuan Longying Technology Co., Ltd.)  
