@@ -1,0 +1,131 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                    Preamble
+
+  The GNU Affero General Public License is a free, copyleft
+license for free and open source software, required by the
+GNU Affero General Public License (AGPL). It is designed
+specifically for use in networked server applications.
+
+  When you modify a program, your customers (whether they
+receive the software over a network or on physical media)
+should be able to download the source code corresponding to
+the version they are running. If they cannot, then the
+program is not truly free software.
+
+  This license is designed for programs that run on servers
+and serve users over a network. It ensures that users who
+interact with the program over a network can access the
+source code.
+
+                    Core Terms
+
+  0. Definitions.
+
+  "This License" refers to version 3 of the GNU Affero
+General Public License.
+
+  "Copyright" means copyright under the laws of a country.
+
+  "The Program" refers to any copyrightable work covered
+by this License.
+
+  "Source code" means the preferred form of a work for
+making modifications to it.
+
+  "Modified version" means any work containing the Program
+or a portion of it, either verbatim or with modifications.
+
+  "Covered work" means an unmodified version of the Program
+or a modified version of the Program.
+
+  "Convey" means any operation that enables a third party
+to make or receive a copy of a covered work.
+
+  "Interact with users through a computer network" means
+communicating with users through a computer network, with
+no transfer of a copy of the work.
+
+  "Remote network interaction" means interacting with users
+through a computer network, with no transfer of a copy of
+the work.
+
+  1. Source Code.
+
+  The "source code" for a covered work means the complete
+object code for the work, with all related interface
+definitions, plus the scripts used to control compilation
+and installation of the object code.
+
+  2. Basic Permissions.
+
+  All rights not expressly granted under this License are
+reserved.
+
+  3. AGPL Requirements.
+
+  If you modify the Program, your modified version must
+prominently offer all users interacting with it remotely
+through a computer network an opportunity to receive the
+source code for the modified version.
+
+                    Terms for Providing Source Code
+
+  You may provide the source code through a download
+offer, or through physical media, or through a network
+server.
+
+                    Combining with Other Code
+
+  If you combine the Program with other code, the combined
+work must be distributed under this License.
+
+                    Translation
+
+  "Translation" means any conversion of the Program from one
+language to another, including conversion of a work into a
+different programming language.
+
+                    Patents
+
+  No patent license is granted under this License.
+
+                    Termination
+
+  This License applies to any program or other work that
+contains a notice placed by the copyright holder saying it
+may be distributed under the terms of this License.
+
+                    Acceptance and Termination
+
+  You may accept and/or become a party to this License by
+doing something that would otherwise require your permission
+under copyright law.
+
+                    Information about the Authors
+
+  Copyright (C) 2007 Free Software Foundation, Inc.
+
+  This program is free software: you can redistribute it
+and/or modify it under the terms of the GNU Affero General
+Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any
+later version.
+
+  This program is distributed in the hope that it will be
+useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE. See the GNU Affero General Public License for more
+details.
+
+  You should have received a copy of the GNU Affero General
+Public License along with this program. If not, see
+<https://www.gnu.org/licenses/>.
+
+For more information about this license, see
+<https://www.gnu.org/licenses/agpl-3.0.html>.
