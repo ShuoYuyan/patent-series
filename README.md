@@ -1,5 +1,7 @@
 # Multi-Dimensional Data Unified Computing Paradigm — Patent Series
 
+**🌐 English Version** | **🇨🇳 [中文版](README_CN.md)**
+
 <!-- SEO Meta Tags -->
 <meta name="description" content="Revolutionary multi-dimensional data management system patents including NDData, TCL/TQL, Agent-first architecture, and three-layer penetration technology. Open-source under AGPL-3.0 for non-commercial use.">
 <meta name="keywords" content="multi-dimensional data, NDData, TCL TQL, Agent-first architecture, data management, patent series, data structure, unified computing, three-layer penetration, tree architecture, path index">
