@@ -9,12 +9,12 @@
 
 | Patent | Core Contribution |
 |--------|-------------------|
-| [Patent 1: N-Dimensional Data Management System and Method](专利1_NDData_N维数据管理系统_EN.md) | N-Dimensional Data Model (NDData) |
-| [Patent 2: Unified Configuration Query Language (TCL/TQL) and Data Operation Methods](专利2_TCL_TQL统一配置查询语言_EN.md) | Unified Path Expression Language |
-| [Patent 3: Tree Architecture and Path Index Based Data Storage and Query System](专利3_树架构路径索引数据存储查询_EN.md) | On-demand Growth Tree Architecture and O(1) Path Index |
-| [Patent 4: Bidirectional Equivalence Architecture](专利4_双向对等架构_EN.md) | NDData↔TCL/TQL Bidirectional Equivalence |
-| [Patent 5: Agent-First Multi-Dimensional Data Automation System Architecture](专利5_Agent优先架构_EN.md) | Agent-First Design |
-| [Patent 6: Dimension Broadcast and Penetration Drilling Operation Methods](专利6_维度广播穿透钻取操作_EN.md) | Dimension Broadcast and Penetration Drilling |
+| [Patent 1: N-Dimensional Data Management System and Method](Patent1_NDData_ND_Data_Management_System_EN.md) | N-Dimensional Data Model (NDData) |
+| [Patent 2: Unified Configuration Query Language (TCL/TQL) and Data Operation Methods](Patent2_TCL_TQL_Unified_Configuration_Query_Language_EN.md) | Unified Path Expression Language |
+| [Patent 3: Tree Architecture and Path Index Based Data Storage and Query System](Patent3_Tree_Architecture_Path_Index_Data_Storage_Query_EN.md) | On-demand Growth Tree Architecture and O(1) Path Index |
+| [Patent 4: Bidirectional Equivalence Architecture](Patent4_Bidirectional_Equivalence_Architecture_EN.md) | NDData↔TCL/TQL Bidirectional Equivalence |
+| [Patent 5: Agent-First Multi-Dimensional Data Automation System Architecture](Patent5_Agent_First_Architecture_EN.md) | Agent-First Design |
+| [Patent 6: Dimension Broadcast and Penetration Drilling Operation Methods](Patent6_Dimension_Broadcast_Penetration_Drilling_EN.md) | Dimension Broadcast and Penetration Drilling |
 
 ## Technical Foundation
 
