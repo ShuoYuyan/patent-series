@@ -1,0 +1,6 @@
+# Git diagnostic files
+gcm-diagnose.log
+
+# System files
+.DS_Store
+Thumbs.db
